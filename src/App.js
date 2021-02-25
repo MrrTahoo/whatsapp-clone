@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>lets build a whatsapp clone</h1>
+      <h1>lets build a whatsApp clone</h1>
     </div>
   );
 }
